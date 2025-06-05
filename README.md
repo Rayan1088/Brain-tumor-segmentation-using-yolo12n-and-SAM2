@@ -1,1 +1,1 @@
-# Brain-tumor-segmentation-using-yolo11n-and-SAM2
+# Brain-tumor-segmentation-using-yolo12n-and-SAM2
